@@ -1,5 +1,11 @@
+
 Q1: Why might we consider using Git?
 
 Answer:
 Because you can store version of files and collaborate with others.
+
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Predicting weather
 
